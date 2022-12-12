@@ -1,0 +1,10 @@
+BIDV
+0.073
+Vietcombank
+0.075
+Agribank
+0.7
+VPbank
+0.0749
+Vietinbank
+0.077

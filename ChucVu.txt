@@ -1,0 +1,15 @@
+MCVKT
+Bo phan ky thuat
+12000000
+MCVTV
+Bo phan tu van khach hang
+10000000
+MCVVS
+Bo phan ve sinh
+7000000
+MCVBV
+Bo phan bao ve
+7000000
+MCVKT
+Bo phan ke toan
+15000000

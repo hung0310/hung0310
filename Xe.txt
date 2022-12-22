@@ -1,0 +1,30 @@
+CDC_TYT001
+Toyota
+Toyota Vios
+Den
+2
+489000000
+CDC_TYT002
+Toyota
+Toyota Corolla Altis
+Trang
+4
+719000000
+CDC_TYT003
+Toyota
+Toyota Camry
+Do
+2
+985000000
+CDC_TYT004
+Toyota
+Toyota Fortuner
+Tim
+3
+995000000
+CDC_TYT005
+Toyota
+Toyota Yaris
+Vang
+2
+684000000
